@@ -1,6 +1,6 @@
-module github.com/jizizr/wordclouds
+module github.com/jizizr/wordcloud
 
-go 1.13
+go 1.18
 
 require (
 	github.com/fogleman/gg v1.3.0
