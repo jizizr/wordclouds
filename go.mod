@@ -1,4 +1,4 @@
-module github.com/jizizr/wordcloud
+module github.com/jizizr/wordclouds
 
 go 1.18
 
